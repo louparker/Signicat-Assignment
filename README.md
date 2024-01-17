@@ -6,10 +6,15 @@
 **Goal 1 Expected Result:**
 
 *1. Name of my organisation:* "Lupaka"
+
 *2. My Organisation ID:* "o-p-w1B4fU8XEsedQAMOhkiC"
+
 *3. The name of my sandbox account:* "Lupaka-Sandbox"
+
 *4. My Account ID:* "a-spge-6U4w49jaW85sJLic7lYM"
+
 *5. The name of my OIDC client:* "client_01"
+
 *6. The redirect URL(s) that I added to the OIDC client:* "https://oauth.tools/callback/code"
 
 **Goal 2 Expected Result:**
